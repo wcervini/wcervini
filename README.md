@@ -34,3 +34,6 @@ Es un mundo apasionante el cual solo aprecias si amas la informatica y la tecnol
 - Tecnobyte [Canal con muchos tutoriales](https://www.youtube.com/channel/UC6T4iAu4pLNklngwBfwMLQA)
 - Walter Cervini [Mi canal Personal](https://www.youtube.com/channel/UC0wmis_mskJ1_KCDpVgqL2A)
 - Linspec [Canal de Linux](https://www.youtube.com/channel/UCm9QnGqBUJAFwRQ7uLpepeQ)
+
+### Donaciones
+:heart: me encantaria que me apoyaras con esta noble causa de enseñanza gratuita, cualquier aporte es valioso => [Donaciones](ko-fi.com/waltercervini)
