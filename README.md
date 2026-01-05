@@ -37,3 +37,6 @@ Es un mundo apasionante el cual solo aprecias si amas la informatica y la tecnol
 
 ### Donaciones
 :heart: me encantaria que me apoyaras con esta noble causa de enseñanza gratuita, cualquier aporte es valioso => [Donaciones](ko-fi.com/waltercervini)
+
+### Curriculim Vitae
+👀 Proximamente
